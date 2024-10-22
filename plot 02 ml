@@ -1,0 +1,23 @@
+# Plotting the results
+models = ['Linear', 'Ridge', 'Lasso']
+r2_scores = [r2_lr, r2_ridge, r2_lasso]
+rmse_scores = [rmse_lr, rmse_ridge, rmse_lasso]
+
+plt.figure(figsize=(10, 5))
+
+# R2 Score plot
+plt.subplot(1, 2, 1)
+plt.bar(models, r2_scores, color='blue')
+plt.xlabel('Model')
+plt.ylabel('R2 Score')
+plt.title('R2 Score Comparison')
+
+# RMSE plot
+plt.subplot(1, 2, 2)
+plt.bar(models, rmse_scores, color='red')
+plt.xlabel('Model')
+plt.ylabel('RMSE')
+plt.title('RMSE Comparison')
+
+plt.tight_layout()
+plt.show()
