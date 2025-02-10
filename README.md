@@ -1,13 +1,6 @@
 # SPPU AI&DS Engineering Resources
 
-This repository curates essential technical materials for the Savitribai Phule Pune University (SPPU) Artificial Intelligence and Data Science (AI&DS) engineering program.  It's designed to support students throughout their academic journey, encouraging a deeper understanding of the field beyond simply passing exams.
-
----
-
-> Our aim is to cultivate not just graduates, but *engineers* – individuals capable of building solutions, dissecting complex challenges into manageable components, and communicating technical concepts effectively to a non-technical audience.
-
----
-
+This repository curates essential technical materials for the Savitribai Phule Pune University (SPPU) Artificial Intelligence and Data Science (AI&DS) engineering program.  It's designed to support students throughout their academic journey, encouraging a deeper understanding of the field beyond simply passing exams. <br>
 Don't let external factors detract from your valuable college experience.  These years are an investment in your future, and deserve your full engagement.
 
 > Learn, Experiment, Build – Embrace this mantra.  Cheers! ✨
